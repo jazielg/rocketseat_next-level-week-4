@@ -5,10 +5,10 @@
 </h1>
 
 <h1 align="center">
-    <img alt="start" title="Start" src=".github/start.png" width="200px" />
-    <img alt="countdown" title="Countdown" src=".github/countdown.png" width="200px" />
-    <img alt="finish" title="Finish" src=".github/finish.png" width="200px" />
-    <img alt="levelup" title="Level Up" src=".github/levelup.png" width="200px" />
+    <img alt="start" title="Start" src=".github/start.png" width="245px" />
+    <img alt="countdown" title="Countdown" src=".github/countdown.png" width="245px" />
+    <img alt="finish" title="Finish" src=".github/finish.png" width="245px" />
+    <img alt="levelup" title="Level Up" src=".github/levelup.png" width="245px" />
 </h1>
 
 ## 💻 Projeto
@@ -33,7 +33,7 @@ Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/),
 
 ```bash
 # Diretório da API
-cd moveit-next
+cd react/moveit-next
 
 # Instalar dependências
 yarn install
