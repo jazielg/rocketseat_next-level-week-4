@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :clipboard: Diagrama
 
-<img src="public/diagrama.png" alt="Diagrama da aplicação" />
+<img src=".github/diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🔨 Como usar
 
