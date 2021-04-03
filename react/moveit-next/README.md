@@ -1,34 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rocketseat Next Level Week #4
 
-## Getting Started
+<h1 align="center">
+  <img alt="move.it" title="move.it" src=".github/logo.png" />
+</h1>
 
-First, run the development server:
+<h1 align="center">
+    <img alt="start" title="Start" src=".github/start.png" width="200px" />
+    <img alt="countdown" title="Countdown" src=".github/countdown.png" width="200px" />
+    <img alt="finish" title="Finish" src=".github/finish.png" width="200px" />
+    <img alt="levelup" title="Level Up" src=".github/levelup.png" width="200px" />
+</h1>
+
+## 💻 Projeto
+
+Projeto desenvolvido no evento "Next Level Week 4" da [Rocketseat](https://rocketseat.com.br/).
+
+O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 🔨 Como usar
+
+Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), Node.js v12+ e [Yarn](https://yarnpkg.com/) instalado.
+
+### Iniciar Aplicação
 
 ```bash
-npm run dev
-# or
+# Diretório da API
+cd moveit-next
+
+# Instalar dependências
+yarn install
+
+# Iniciar servidor rodando na porta 3000 (http://localhost:3000)
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔖 Layout
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0).
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🧠 Desafio
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Melhorar a estilização da aplicação com layout responsivo, utilização de PWA;
 
-## Learn More
+- Alterar as cores da aplicação, criar um tema dark.
 
-To learn more about Next.js, take a look at the following resources:
+### Desenvolver o próximo nível
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`https://www.figma.com/file/qM1HJWQoVBWf3G3nz6WFl6/Move.it-2.0-(Copy)?node-id=160:2761`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## :memo: Licença
 
-## Deploy on Vercel
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](https://rocketseat.com.br/).</sup>
