@@ -56,10 +56,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 `https://www.figma.com/file/qM1HJWQoVBWf3G3nz6WFl6/Move.it-2.0-(Copy)?node-id=160:2761`
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
 
 <sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](https://rocketseat.com.br/).</sup>

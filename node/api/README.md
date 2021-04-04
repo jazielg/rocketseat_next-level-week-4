@@ -48,10 +48,6 @@ yarn test
 yarn dev
 ```
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
 
 <sup>Projeto desenvolvido com a tutoria da [Daniele Leão Evangelista](https://github.com/danileao), da [Rocketseat](https://rocketseat.com.br/).</sup>

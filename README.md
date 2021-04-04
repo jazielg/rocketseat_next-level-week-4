@@ -11,3 +11,7 @@ cd react/moveit-next
 ```bash
 cd node/api
 ```
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
